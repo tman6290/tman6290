@@ -1,19 +1,19 @@
 ![MasterHead](https://www.readyengineering.com/wp-content/uploads/2019/06/programming_banner-1200x300.jpg)
 <h1 align="center">Hi 👋, my name is Tofarati Farinu</h1>
-<h3 align="center">A hard-working and passionate software engineer that's always willing to learn new technologies.</h3>
+<h3 align="center">A hard-working and passionate software engineer with a growing passion for cyber security.</h3>
 <img align="right" alt="Coding" width = "400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tman6290&label=Profile%20views&color=0e75b6&style=flat" alt="tman6290" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tman6290" alt="tman6290" /></a> </p>
 
-- 🔭 I’m currently working on [Juju Flight](https://github.com/tman6290/Juju-Flight)
+- 🔭 I’m currently working on [CompTIA Security+ Certification]
 
 - 🌱 I’m currently learning **Unity, Artificial Intelligence, Ethical hacking**
 
 - 👨‍💻 All of my projects are available at [https://github.com/tman6290?tab=repositories](https://github.com/tman6290?tab=repositories)
 
-- 💬 Ask me about **Game development, Machine Learning**
+- 💬 Ask me about **Cyber Security, Web Development, Game development**
 
 - 📫 How to reach me **tofaratifarinu@gmail.com**
 
