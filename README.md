@@ -17,8 +17,6 @@
 
 - 📫 How to reach me **tofaratifarinu@gmail.com**
 
-- 📄 Know about my experiences [https://aquamarine-thomasa-22.tiiny.site](https://aquamarine-thomasa-22.tiiny.site)
-
 - ⚡ Fun fact **I am a Mixed Martial Artist**
 
 <h3 align="left">Connect with me:</h3>
